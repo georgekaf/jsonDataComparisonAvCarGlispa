@@ -1,16 +1,14 @@
 package main;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+import com.google.gson.stream.JsonReader;
 import numericFunctions.PercentOf;
-import fileManipulation.*;
 
 import java.io.File;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import com.google.gson.stream.JsonReader;
 
 /**
  * The main class that accepts the filepaths, calculates differences of json objects
@@ -57,8 +55,8 @@ public class JsonParser {
                     }    
                 }
 
-                // If filstreams have the wrong size it won't proceed
-                if (filestreams.size() < 2) {
+                // If filestreams have the wrong size it won't proceed
+                if (filestreams.size() == 2) {
 
                     // Create the json parsing object
                     JsonParser jsonParser = new JsonParser();
