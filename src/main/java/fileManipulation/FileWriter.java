@@ -1,7 +1,4 @@
-/**
- * Write (append) string to file.
- */
-package main;
+package fileManipulation;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -13,8 +10,9 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
- * @author giorgos
+ * Write (append) strings to file.
  *
+ * @author giorgos
  */
 public class FileWriter {
     private File filePath;
@@ -74,27 +72,8 @@ public class FileWriter {
      * @return
      */
     public void setFilePathName() {
-        SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss");
-        Date currentDate = new Date();
-        
-        String filename = System.getProperty("user.dir") 
-                + File.separator 
-                + "discrepancies_" 
-                + dateFormat.format(currentDate) ;
-        
-        // Because of the unit test cases
-        // all their results were saved in the same file
-        // now we check for the file and if exists 
-        // we increment the name by 1
-        int num = 0;
-        String filenameToSave = filename + ".json";
-        this.filePath = new File(filenameToSave);
-        while(this.filePath.exists()) {
-            filenameToSave = filename + "-" + (num++) +".json";
-            this.filePath = new File(filenameToSave); 
-        }
-        
-        this.filePathName = filenameToSave;
+        // Generate and use a filename
+        this.filePathName = FileNameGenerator.generate();
     }
 
     /**
