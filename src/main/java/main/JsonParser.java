@@ -1,6 +1,7 @@
 package main;
 
 import numericFunctions.PercentOf;
+import fileManipulation.*;
 
 import java.io.File;
 import java.io.IOException;

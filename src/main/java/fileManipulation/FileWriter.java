@@ -6,8 +6,6 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.io.Writer;
-import java.text.SimpleDateFormat;
-import java.util.Date;
 
 /**
  * Write (append) strings to file.
@@ -15,7 +13,7 @@ import java.util.Date;
  * @author giorgos
  */
 public class FileWriter {
-    private File filePath;
+    private File file;      // The current file Object
     private String filePathName;
 
     /**
@@ -23,8 +21,29 @@ public class FileWriter {
      */
     public FileWriter() {
         setFilePathName();
+        this.file = new File(this.filePathName);
     }
-    
+
+    /**
+     * Generate a unique (datetime) filename
+     * and set it to field filePathName
+     *
+     * @return
+     */
+    public void setFilePathName() {
+        // Generate and use a filename
+        this.filePathName = FileNameGenerator.generateDateFormatFile();
+    }
+
+    /**
+     * Get private field
+     *
+     * @return
+     */
+    public String getFilePathName() {
+        return filePathName;
+    }
+
     /**
      * Append string to file without loading the entire file in memory.
      * 
@@ -32,7 +51,7 @@ public class FileWriter {
      * @throws IOException
      */
     public void fileAppend(String str) throws IOException {
-        writeFile(this.filePath, str);
+        writeFile(this.file, str);
     }
     
     /**
@@ -63,25 +82,5 @@ public class FileWriter {
                 ex.printStackTrace();
             }
         } 
-    }
-    
-    /**
-     * Generate a unique (datetime) filename 
-     * and set it to field filePathName
-     * 
-     * @return
-     */
-    public void setFilePathName() {
-        // Generate and use a filename
-        this.filePathName = FileNameGenerator.generate();
-    }
-
-    /**
-     * Get private field
-     * 
-     * @return
-     */
-    public String getFilePathName() {
-        return filePathName;
     }
 }

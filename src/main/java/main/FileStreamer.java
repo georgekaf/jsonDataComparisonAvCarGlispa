@@ -1,6 +1,4 @@
-/**
- * manages the opening of files as streams
- */
+
 package main;
 
 import java.io.File;
@@ -13,7 +11,8 @@ import java.util.List;
 import com.google.gson.stream.JsonReader;
 
 /**
- * @author giorgos
+ *
+ * manages the opening of files as streams
  *
  */
 public class FileStreamer {
@@ -40,6 +39,7 @@ public class FileStreamer {
      }
     
     /**
+     * Create a filestream and add it to the provided ArrayList
      * 
      * @param filestreams
      * @param filepath
