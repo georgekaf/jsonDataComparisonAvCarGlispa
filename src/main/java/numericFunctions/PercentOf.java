@@ -1,5 +1,8 @@
 package numericFunctions;
 
+/**
+ * Calculate the percentage difference of two numbers
+ */
 public class PercentOf {
     /**
      * 

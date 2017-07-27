@@ -1,19 +1,13 @@
-/**
- * Covert file streams to JsonReader objects
- */
 package main;
+
+import com.google.gson.stream.JsonReader;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
-import com.google.gson.JsonSyntaxException;
-import com.google.gson.stream.JsonReader;
-import com.google.gson.stream.MalformedJsonException;
-
 /**
- * @author giorgos
- *
+ * Covert file streams to JsonReader objects
  */
 public class JsonStreamer {
     
@@ -28,6 +22,7 @@ public class JsonStreamer {
         try {
             InputStreamReader streamReader = new InputStreamReader(in, "UTF-8");
             JsonReader reader = new JsonReader(streamReader);
+
             return reader;
         } catch (Exception e) {
             //e.printStackTrace();

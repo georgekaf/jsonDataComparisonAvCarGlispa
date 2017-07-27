@@ -1,7 +1,3 @@
-/**
- * The basic Ads object class
- */
-
 package main;
 
 public class Ads {

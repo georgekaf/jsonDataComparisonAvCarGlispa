@@ -13,6 +13,7 @@ import java.util.Date;
 public class FileNameGenerator {
 
     /**
+     * Generate the file name with date format and return its absolute path
      *
      * @return fileNamePath
      */
@@ -31,10 +32,12 @@ public class FileNameGenerator {
     }
 
     /**
+     * Check if a file already exists and increment its name.
+     * Return it name
      *
-     * @param filename
-     * @param extension
-     * @return
+     * @param filename          String. The filename we want to check
+     * @param extension         String. The extension of the filename
+     * @return filenameToSave   String. The new filename if we renamed it.
      */
     public static String fileExistsRename(String filename, String extension){
         // Because of the unit test cases

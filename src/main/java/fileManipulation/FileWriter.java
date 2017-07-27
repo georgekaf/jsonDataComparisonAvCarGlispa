@@ -1,11 +1,6 @@
 package fileManipulation;
 
-import java.io.BufferedWriter;
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.OutputStreamWriter;
-import java.io.Writer;
+import java.io.*;
 
 /**
  * Write (append) strings to file.
@@ -13,11 +8,11 @@ import java.io.Writer;
  * @author giorgos
  */
 public class FileWriter {
-    private File file;      // The current file Object
-    private String filePathName;
+    private File file;              // The current output file Object
+    private String filePathName;    // The name of the current output file loaded in memory
 
     /**
-     * Set the private fields
+     * Initialize class and set the private fields
      */
     public FileWriter() {
         setFilePathName();
@@ -28,7 +23,7 @@ public class FileWriter {
      * Generate a unique (datetime) filename
      * and set it to field filePathName
      *
-     * @return
+     * @return filePathName
      */
     public void setFilePathName() {
         // Generate and use a filename
@@ -36,9 +31,9 @@ public class FileWriter {
     }
 
     /**
-     * Get private field
+     * filePathName getter
      *
-     * @return
+     * @return filePathName
      */
     public String getFilePathName() {
         return filePathName;
@@ -46,6 +41,7 @@ public class FileWriter {
 
     /**
      * Append string to file without loading the entire file in memory.
+     * Get file write.
      * 
      * @param str
      * @throws IOException
@@ -53,9 +49,10 @@ public class FileWriter {
     public void fileAppend(String str) throws IOException {
         writeFile(this.file, str);
     }
-    
+
     /**
-     * 
+     *  Write provided string to the desired file in append mode
+     *
      * @param filepath
      * @param str
      * @throws IOException
@@ -69,7 +66,6 @@ public class FileWriter {
         try {
             if (writer != null) {
                 writer.append(str);
-//                System.out.println(str);
             }
         } catch (IOException e) {
             e.printStackTrace();
