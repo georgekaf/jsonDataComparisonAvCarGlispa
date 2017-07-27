@@ -1,0 +1,254 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building adsParser 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ adsParser ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ adsParser ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 6 source files to /mnt/web-data/AdsProject/target/classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ adsParser ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ adsParser ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 6 source files to /mnt/web-data/AdsProject/target/test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.3:test (default-test) @ adsParser ---
+[INFO] Surefire report directory: /mnt/web-data/AdsProject/target/surefire-reports
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running adsParser.TestPercentOf
+An increase of 100.0%
+This is an increase of 100.0
+An increase of 0%
+You can't work out the percentage change if the original number is 0.
+The two numbers are the same
+A decrease of 50.0%
+This is a decrease of 50.0
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.037 sec
+Running adsParser.TestJsonStreamer
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+Running adsParser.TestJsonParser
+file /tmp/junit4817761663745608341/test6.json exists
+file /tmp/junit4817761663745608341/test7.json exists
+Checking date: 2016-08-05T00:00:00
+Check Impressions:
+An increase of 8880.0%
+This is an increase of 8880.0
+Check Spend:
+An increase of 0%
+The two numbers are the same
+=====================================================================================
+
+Comparison of files /tmp/junit4817761663745608341/test6.json,/tmp/junit4817761663745608341/test7.json, completed 
+Results are in /mnt/web-data/AdsProject/target/discrepancies_2017-07-23_19-57-16.json
+Please review results
+file /tmp/junit5464945974012528329/test8.json exists
+file /tmp/junit5464945974012528329/test9.json exists
+java.io.EOFException: End of input at line 1 column 1
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1414)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:553)
+	at com.google.gson.stream.JsonReader.beginArray(JsonReader.java:343)
+	at main.JsonParser.iterateJsonFiles(JsonParser.java:88)
+	at main.JsonParser.main(JsonParser.java:51)
+	at adsParser.TestJsonParser.test_Main_Contents_Missing_Contents_From_Second_File(TestJsonParser.java:297)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Something went wrong. Please see stacktrace
+file /tmp/junit3636598800789325565/test12.json exists
+Only one file was found
+file /tmp/junit7340994005587796117/test6.json exists
+file /tmp/junit7340994005587796117/test7.json exists
+Checking date: 2016-08-05T00:00:00
+Check Impressions:
+A decrease of 69.0%
+This is a decrease of 69.0
+Check Spend:
+An increase of 0%
+The two numbers are the same
+=====================================================================================
+
+Comparison of files /tmp/junit7340994005587796117/test6.json,/tmp/junit7340994005587796117/test7.json, completed 
+Results are in /mnt/web-data/AdsProject/target/discrepancies_2017-07-23_19-57-16-0.json
+Please review results
+Missing both files
+file /tmp/junit7571250654749376556/test6.json exists
+file /tmp/junit7571250654749376556/test7.json exists
+Checking date: 2016-08-05T00:00:00
+Check Impressions:
+An increase of 0%
+The two numbers are the same
+Check Spend:
+An increase of 0%
+The two numbers are the same
+=====================================================================================
+
+Comparison of files /tmp/junit7571250654749376556/test6.json,/tmp/junit7571250654749376556/test7.json, completed 
+Results are in /mnt/web-data/AdsProject/target/discrepancies_2017-07-23_19-57-16-1.json
+Please review results
+file /tmp/junit4670300553462154277/test6.json exists
+file /tmp/junit4670300553462154277/test7.json exists
+Checking date: 2016-08-05T00:00:00
+Check Impressions:
+A decrease of 50.0%
+This is a decrease of 50.0
+Check Spend:
+A decrease of 90.0%
+This is a decrease of 90.0
+=====================================================================================
+
+Comparison of files /tmp/junit4670300553462154277/test6.json,/tmp/junit4670300553462154277/test7.json, completed 
+Results are in /mnt/web-data/AdsProject/target/discrepancies_2017-07-23_19-57-16-2.json
+Please review results
+file /tmp/junit6594481009290431138/test10.json exists
+file /tmp/junit6594481009290431138/test11.json exists
+java.io.EOFException: End of input at line 1 column 1
+	at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1414)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:553)
+	at com.google.gson.stream.JsonReader.beginArray(JsonReader.java:343)
+	at main.JsonParser.iterateJsonFiles(JsonParser.java:87)
+	at main.JsonParser.main(JsonParser.java:51)
+	at adsParser.TestJsonParser.test_Main_Contents_Missing_Contents_From_Both_Files(TestJsonParser.java:324)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:48)
+	at org.junit.rules.RunRules.evaluate(RunRules.java:20)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:252)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:141)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:112)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray(ReflectionUtils.java:189)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:165)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:85)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:115)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:75)
+Something went wrong. Please see stacktrace
+file /tmp/junit410187138645135977/test6.json exists
+file /tmp/junit410187138645135977/test7.json exists
+Timestamp Order Mismatched at CompanyA record: 2016-08-05T00:00:00 and CompanyB 2017-08-05T00:00:00
+Comparison of files /tmp/junit410187138645135977/test6.json,/tmp/junit410187138645135977/test7.json, completed 
+Results are in /mnt/web-data/AdsProject/target/discrepancies_2017-07-23_19-57-16-3.json
+Please review results
+No arguments provided
+Missing both files
+file /tmp/junit6705748723629108804/test6.json exists
+file /tmp/junit6705748723629108804/test7.json exists
+Checking date: 2016-08-05T00:00:00
+Check Impressions:
+An increase of 0%
+The two numbers are the same
+Check Spend:
+A decrease of 90.0%
+This is a decrease of 90.0
+=====================================================================================
+
+Comparison of files /tmp/junit6705748723629108804/test6.json,/tmp/junit6705748723629108804/test7.json, completed 
+Results are in /mnt/web-data/AdsProject/target/discrepancies_2017-07-23_19-57-16-4.json
+Please review results
+file /tmp/junit8832049921506824176/test6.json exists
+file /tmp/junit8832049921506824176/test7.json exists
+Checking date: 2016-08-05T00:00:00
+Check Impressions:
+An increase of 0%
+The two numbers are the same
+Check Spend:
+An increase of 896.0%
+This is an increase of 896.0
+=====================================================================================
+
+Comparison of files /tmp/junit8832049921506824176/test6.json,/tmp/junit8832049921506824176/test7.json, completed 
+Results are in /mnt/web-data/AdsProject/target/discrepancies_2017-07-23_19-57-16-5.json
+Please review results
+file /tmp/junit5529807311722739864/test13.json exists
+Only one file was found
+Missing both files
+Tests run: 19, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.269 sec
+Running adsParser.TestAds
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+Running adsParser.TestFileWriter
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 sec
+Running adsParser.TestFileStreamer
+Error: Could not find file.
+null
+Error: Could not find file.
+ (No such file or directory)
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec
+
+Results :
+
+Tests run: 34, Failures: 0, Errors: 0, Skipped: 0
+
+[INFO] 
+[INFO] --- maven-jar-plugin:2.2:jar (default-jar) @ adsParser ---
+[INFO] Building jar: /mnt/web-data/AdsProject/target/adsParser-0.0.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- maven-assembly-plugin:3.0.0:single (default) @ adsParser ---
+[INFO] Building jar: /mnt/web-data/AdsProject/target/adsParser-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ adsParser ---
+[INFO] Installing /mnt/web-data/AdsProject/target/adsParser-0.0.1-SNAPSHOT.jar to /home/giorgos/.m2/repository/com/adsparser/adsParser/0.0.1-SNAPSHOT/adsParser-0.0.1-SNAPSHOT.jar
+[INFO] Installing /mnt/web-data/AdsProject/pom.xml to /home/giorgos/.m2/repository/com/adsparser/adsParser/0.0.1-SNAPSHOT/adsParser-0.0.1-SNAPSHOT.pom
+[INFO] Installing /mnt/web-data/AdsProject/target/adsParser-0.0.1-SNAPSHOT-jar-with-dependencies.jar to /home/giorgos/.m2/repository/com/adsparser/adsParser/0.0.1-SNAPSHOT/adsParser-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 5.108 s
+[INFO] Finished at: 2017-07-23T19:57:19+03:00
+[INFO] Final Memory: 35M/289M
+[INFO] ------------------------------------------------------------------------

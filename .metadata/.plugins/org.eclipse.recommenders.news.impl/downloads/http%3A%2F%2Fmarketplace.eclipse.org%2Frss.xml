@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>StoryTeller</title>
+    <link>http://marketplace.eclipse.org/content/storyteller</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/storyteller-eclipse.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2012-08-18 23:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-07-21 12:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Socosomi%22&quot;&gt;Socosomi&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/hjernevadxa8/listings&quot; title=&quot;Henrik Jernevad&quot;&gt;Henrik Jernevad&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;StoryTeller is an Eclipse plugin which helps you write high quality code by using your tests as living documentation, or put differently, by telling the story of your code.&lt;/p&gt;
+&lt;p&gt;Making code easier to understand is important since code is harder to read than to write. A great way to do that is to see tests as stories about the code. This helps you focus on communication and intent, rather than technical details.&lt;/p&gt;
+&lt;p&gt;This is where StoryTeller comes in. It helps you by displaying relevant tests side-by-side with your code, and displaying test names as normal sentences rather than method names. These features help you turn computer-focused tests into human-focused documentation.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 19 Aug 2012 03:13:20 +0000</pubDate>
+ <dc:creator>hjernevadxa8</dc:creator>
+ <guid isPermaLink="false">380933 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/storyteller#comments</comments>
+  </item>
+  <item>
+    <title>PRFC</title>
+    <link>http://marketplace.eclipse.org/content/prfc</link>
+    <description>&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-07-20 12:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/proques/listings&quot; title=&quot;Pascal Roques&quot;&gt;Pascal Roques&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-consulting-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logoSmall.png&quot; width=&quot;110&quot; height=&quot;66&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-07-21 09:33&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;PRFC offers training courses in complex systems modeling with Arcadia/capella. These courses are aimed at all types of profiles, and can range from a technical overview to the modeling of realistic case studies.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-trainingdesc field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Systems engineers have been using modeling techniques for decades. The best-known include the functional approaches SADT and SA/RT, which date from the 1980s, but were limited by their low power of expression. Thales wished to enhance these methods to take into account all of the engineering activities, from operational analysis to physical architecture. After having tested the method internally, and developed an accompanying workbench, Thales has recently decided to make it public, through the &lt;strong&gt;Capella &lt;/strong&gt;tool (inside the &lt;strong&gt;Polarsys &lt;/strong&gt;project of the Eclipse community).&lt;/p&gt;
+&lt;p&gt;This practical training will enable you to discover the ins and outs of the ARCADIA (Architecture Analysis and Design Integrated Approach) method and its associated modeling language. We will also focus on the benefits of a workbench adapted to the method, through a complete case study performed with the open source &lt;strong&gt;Capella &lt;/strong&gt;tool.&lt;/p&gt;
+&lt;p&gt;A language, an approach, a tool: these are the three pillars needed for the success of the Model Based Systems Engineering (&lt;strong&gt;MBSE&lt;/strong&gt;).&lt;/p&gt;
+&lt;p&gt;
+	 &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;&lt;div class=&quot;field field-name-field-consultingdesc field-type-text-long field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;We can help you in tailoring a modeling approach adapted to your context and your company objectives.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-url field-type-text field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Organization URL:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;http://www.prfc.fr/en/&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-trainingurl field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;http://www.prfc.fr/formation/capella-in-action/&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-consultingurl field-type-text field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;http://www.prfc.fr/en/consultancy/&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+     <pubDate>Thu, 20 Jul 2017 16:38:53 +0000</pubDate>
+ <dc:creator>proques</dc:creator>
+ <guid isPermaLink="false">3557237 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/prfc#comments</comments>
+  </item>
+  <item>
+    <title>XRebel Performance Tool</title>
+    <link>http://marketplace.eclipse.org/content/xrebel-performance-tool</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/XRebel_EclipseMarketplace_v1_110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-04-26 08:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-07-21 06:51&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22ZeroTurnaround%22&quot;&gt;ZeroTurnaround&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/owhite/listings&quot; title=&quot;Jevgeni Kabanov&quot;&gt;Jevgeni Kabanov&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;XRebel is a developer tool that improves the development and debugging process. It gives you real time insight into your application, such as IO query executions, method timings and logs. This helps you find and fix common performance pitfalls during development, rather than after committing your code.&lt;/p&gt;
+&lt;p&gt;XRebel works with any IDE, browser, most app servers, databases, frameworks, even message queues. See the full list here: &lt;a href=&quot;http://manuals.zeroturnaround.com/xrebel/support/index.html#&quot; rel=&quot;nofollow&quot;&gt;http://manuals.zeroturnaround.com/xrebel/support/index.html&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Learn more and watch a quick demo of it in action here: &lt;a href=&quot;http://zeroturnaround.com/software/xrebel/?utm_source=eclipse&amp;amp;utm_medium=banner&amp;amp;utm_campaign=xrebel_eclipse_marketplace&quot; rel=&quot;nofollow&quot;&gt;http://www.xrebel.com&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 26 Apr 2016 12:10:25 +0000</pubDate>
+ <dc:creator>owhite</dc:creator>
+ <guid isPermaLink="false">2854925 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/xrebel-performance-tool#comments</comments>
+  </item>
+  <item>
+    <title>FluentMark</title>
+    <link>http://marketplace.eclipse.org/content/fluentmark</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/FluentMark_Logo110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-12-17 23:12&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-07-20 23:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Certiv%20Analytics%22&quot;&gt;Certiv Analytics&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/grosenberg706/listings&quot; title=&quot;Gerald Rosenberg&quot;&gt;Gerald Rosenberg&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h2 id=&quot;fluentmark&quot;&gt;
+	FluentMark&lt;/h2&gt;
+&lt;p&gt;The full-featured Markdown editing environment for Eclipse.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h3 id=&quot;features&quot;&gt;
+	Features&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;
+		Multiple Markdown converters
+&lt;ul&gt;&lt;li&gt;
+				supports &lt;a href=&quot;https://pandoc.org&quot; rel=&quot;nofollow&quot;&gt;Pandoc&lt;/a&gt;, &lt;a href=&quot;https://github.com/russross/blackfriday&quot; rel=&quot;nofollow&quot;&gt;BlackFriday&lt;/a&gt;, &lt;a href=&quot;https://github.com/jgm/CommonMark&quot; rel=&quot;nofollow&quot;&gt;CommonMark&lt;/a&gt;, &lt;a href=&quot;https://github.com/myabc/markdownj&quot; rel=&quot;nofollow&quot;&gt;MarkdownJ&lt;/a&gt;, &lt;a href=&quot;https://github.com/sirthias/pegdown&quot; rel=&quot;nofollow&quot;&gt;PegDown&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://github.com/rjeschke/txtmark&quot; rel=&quot;nofollow&quot;&gt;TxtMark&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+		&lt;a href=&quot;http://www.graphviz.org/&quot; rel=&quot;nofollow&quot;&gt;Graphviz&lt;/a&gt; DOT diagram generator support built-in
+&lt;ul&gt;&lt;li&gt;
+				renders as SVG images embedded in exported Web documents&lt;/li&gt;
+&lt;li&gt;
+				renders as PDF images embedded in exported PDF documents&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+		Real-time browser-based preview of the generated document
+&lt;ul&gt;&lt;li&gt;
+				customizable stylesheet: multiple choices built-in or specify an external stylesheet&lt;/li&gt;
+&lt;li&gt;
+				full code highlighting using &lt;a href=&quot;https://highlightjs.org/&quot; rel=&quot;nofollow&quot;&gt;highlight.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+		Spell check with quick-assist correction processor
+&lt;ul&gt;&lt;li&gt;
+				can be enabled independent of the platform spell checker&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;
+		Smart editing behaviors
+&lt;ul&gt;&lt;li&gt;
+				intelligent paragraph, list &amp;amp; blank line handling&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 18 Dec 2016 04:12:06 +0000</pubDate>
+ <dc:creator>grosenberg706</dc:creator>
+ <guid isPermaLink="false">3217596 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/fluentmark#comments</comments>
+  </item>
+  <item>
+    <title>Early Security Vulnerability Detector - ESVD</title>
+    <link>http://marketplace.eclipse.org/content/early-security-vulnerability-detector-esvd</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2014-07-22 23:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-07-20 23:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22thecodemaster%22&quot;&gt;thecodemaster&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/lsouzajt6/listings&quot; title=&quot;Luciano Sampaio&quot;&gt;Luciano Sampaio&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Our plugin performs its detection while the developer is adding/editing the source code. Also known as Early Detection. Try it out and let us know what you think. Supported vulnerabilities: 01 - Command Injection 02 - Cookie Poisoning 03 - Cross-Site Scripting (XSS) 04 - HTTP Response Splitting 05 - LDAP Injection 06 - Log Forging 07 - Path Traversal 08 - Reflection Injection 09 - Security Misconfiguration 10 - SQL Injection 11 - XPath Injection A project containing several security vulnerabilities: &lt;a href=&quot;http://esvd.thecodemaster.net/plugin/latest/WebDemo.zip&quot; rel=&quot;nofollow&quot;&gt;http://esvd.thecodemaster.net/plugin/latest/WebDemo.zip&lt;/a&gt; More info at: &lt;a href=&quot;http://thecodemaster.net/&quot; rel=&quot;nofollow&quot;&gt;http://thecodemaster.net/&lt;/a&gt; How to use it (Portuguese): &lt;a href=&quot;https://www.youtube.com/watch?v=pNr38gMWvHQ&quot; rel=&quot;nofollow&quot;&gt;https://www.youtube.com/watch?v=pNr38gMWvHQ&lt;/a&gt; My email: lsampaioweb {at} gmail.com This is still a prototype and it only works for JAVA, so your feedback is even more important. Thank you!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 23 Jul 2014 03:13:27 +0000</pubDate>
+ <dc:creator>lsouzajt6</dc:creator>
+ <guid isPermaLink="false">1812065 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/early-security-vulnerability-detector-esvd#comments</comments>
+  </item>
+  <item>
+    <title>TBLips</title>
+    <link>http://marketplace.eclipse.org/content/tblips</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/tb%402x.png&quot; width=&quot;80&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2017-01-10 15:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-07-20 20:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22TreasureBoat.org%22&quot;&gt;TreasureBoat.org&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/kishimoto7py/listings&quot; title=&quot;Ken Ishimoto&quot;&gt;Ken Ishimoto&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This is the first Tool set that you need for creating a TreasureBoat application. Currently TreasureBoat Frameworks are still in private development with Contributors around the world. we still working hardly to get everything in place for the future. TBLips is the first of many Tools that are needed. TBLips itself is currently still under development, and we updating it still a lot, so to have it hear on the Marketplace will help a lot of Developers in this world to move forward more easily. More information will come here soon, stay tuned.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 10 Jan 2017 20:03:01 +0000</pubDate>
+ <dc:creator>kishimoto7py</dc:creator>
+ <guid isPermaLink="false">3248902 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/tblips#comments</comments>
+  </item>
+  <item>
+    <title>Bash Editor</title>
+    <link>http://marketplace.eclipse.org/content/bash-editor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/bash-editor-logo_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-07-10 06:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-07-20 06:46&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/atregnaghi/listings&quot; title=&quot;Albert Tregnaghi&quot;&gt;Albert Tregnaghi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This plugin is just a bash script editor.&lt;/p&gt;
+&lt;p&gt;Features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Syntax highlighting&lt;/li&gt;
+&lt;li&gt;
+		Colors can be customized. Also additional defaults for dark theme exists.&lt;/li&gt;
+&lt;li&gt;
+		Bracket switching + highlighting&lt;/li&gt;
+&lt;li&gt;
+		Block commenting (CTRL+7)&lt;/li&gt;
+&lt;li&gt;
+		Auto bracket closing for []&lt;/li&gt;
+&lt;li&gt;
+		Small (66 kb)&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 10 Jul 2017 10:27:25 +0000</pubDate>
+ <dc:creator>atregnaghi</dc:creator>
+ <guid isPermaLink="false">3536358 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/bash-editor#comments</comments>
+  </item>
+  <item>
+    <title>Team Explorer Everywhere</title>
+    <link>http://marketplace.eclipse.org/content/team-explorer-everywhere</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/BrandVisualStudioTeamServices2017RTW_64x.png&quot; width=&quot;64&quot; height=&quot;64&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2012-04-20 15:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2017-07-19 14:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Microsoft%20Corp.%22&quot;&gt;Microsoft Corp.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dstaheli/listings&quot; title=&quot;David Staheli&quot;&gt;David Staheli&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Team Explorer Everywhere is the official TFS plug-in for Eclipse from Microsoft. It works on the operating system of your choice with your favorite Eclipse-based IDE and helps you collaborate across your development teams using Team Foundation Server or &lt;a href=&quot;https://www.visualstudio.com/products/visual-studio-team-services-vs&quot; rel=&quot;nofollow&quot;&gt;Visual Studio Team Services&lt;/a&gt;. It’s an easy-to-install standalone plug-in that is a free download provided by the same team at Microsoft that develops Team Foundation Server and Visual Studio Team Services. Note that a Team Foundation Server &lt;a href=&quot;http://www.microsoft.com/visualstudio/licensing&quot; rel=&quot;nofollow&quot;&gt;CAL&lt;/a&gt; may be required to connect to TFS, but this is not required for connecting to Visual Studio Team Services. &lt;a href=&quot;https://java.visualstudio.com/&quot; rel=&quot;nofollow&quot;&gt;Learn more about Microsoft tools for Java teams.&lt;/a&gt; &lt;strong&gt;Team Explorer Everywhere Features&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Browse and clone &lt;a href=&quot;https://www.visualstudio.com/features/version-control-vs&quot; rel=&quot;nofollow&quot;&gt;Git repositories&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+		Full access to TFS Version Control (&lt;a href=&quot;https://www.visualstudio.com/features/version-control-vs&quot; rel=&quot;nofollow&quot;&gt;TFVC&lt;/a&gt;), including check-in, check-out, sync, branch, merge, diff, etc.&lt;/li&gt;
+&lt;li&gt;
+		Full access to &lt;a href=&quot;https://www.visualstudio.com/features/agiletools-vs&quot; rel=&quot;nofollow&quot;&gt;TFS agile tools, work items, and issue tracking&lt;/a&gt; capabilities allowing you to add, edit and query work items&lt;/li&gt;
+&lt;li&gt;
+		Full access to TFS Build functionality including the ability to create Ant, Maven, or Gradle based builds in TFS, publish JUnit test results into TFS or Visual Studio Team Services, monitor progress and handle results. This is fully compatible with all Team Foundation Build types including Gated Check-in and Continuous Integration Builds.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Localization / Translation&lt;/strong&gt; Your language, your words, your plug-in for you! Along with open-sourced &lt;a href=&quot;https://github.com/Microsoft/team-explorer-everywhere&quot; rel=&quot;nofollow&quot;&gt;Team Explorer Everywhere (TEE) source code on GitHub&lt;/a&gt; , we are making it possible for anyone to contribute translations in your native language. With these changes, you can now improve existing translated resources, translate updated resources, or even provide new language support TEE did not have before. Your contribution will be part of the TEE Plug-in in your language for everyone to use. We highly appreciate your efforts, and we welcome your feedback and suggestions on the TEE community localization process. Your contribution could be in next release! Please click &lt;a href=&quot;https://github.com/Microsoft/team-explorer-everywhere/blob/master/Localization.md&quot; rel=&quot;nofollow&quot;&gt;Localization&lt;/a&gt; for details on how to contribute in TEE community translation effort. Feel free to contact us if you have any questions. Happy contributing! For more information, including system requirements and details on command line connectivity to Team Foundation Server from Unix-based systems, see the &lt;a href=&quot;https://www.visualstudio.com/products/team-explorer-everywhere-vs&quot; rel=&quot;nofollow&quot;&gt;Team Explorer Everywhere page&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 20 Apr 2012 19:48:42 +0000</pubDate>
+ <dc:creator>dstaheli</dc:creator>
+ <guid isPermaLink="false">252148 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/team-explorer-everywhere#comments</comments>
+  </item>
+  <item>
+    <title>FeatureIDE</title>
+    <link>http://marketplace.eclipse.org/content/featureide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/logo1056.png&quot; width=&quot;110&quot; height=&quot;53&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2010-12-04 04:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2017-07-19 12:27&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22University%20of%20Magdeburg%22&quot;&gt;University of Magdeburg&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/tthuemsri/listings&quot; title=&quot;Thomas Thuem&quot;&gt;Thomas Thuem&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;FeatureIDE supports feature-oriented software development in Eclipse&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sat, 04 Dec 2010 09:23:25 +0000</pubDate>
+ <dc:creator>tthuemsri</dc:creator>
+ <guid isPermaLink="false">22848 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/featureide#comments</comments>
+  </item>
+  <item>
+    <title>ImageJ Plugin</title>
+    <link>http://marketplace.eclipse.org/content/imagej-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-10-05 06:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2017-07-19 07:23&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Bio7%22&quot;&gt;Bio7&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mmisingnameaoh/listings&quot; title=&quot;Marcel Austenfeld&quot;&gt;Marcel Austenfeld&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This plugin integrates the scientific image application ImageJ in an Eclipse view and is also part of the Bio7 application (&lt;a href=&quot;http://bio7.org&quot; rel=&quot;nofollow&quot;&gt;http://bio7.org&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;ImageJ is an open source image processing program designed for the analysis of scientific multidimensional images. Supported ImageJ images can be opened and analyzed in multiple view tabs.&lt;/p&gt;
+&lt;p&gt;ImageJ Plugins and macros are supported, too and can be installed in the plugins subfolder or the install location defined in the preferences. In addition the plugin comes bundled with a simple image thumbnail browser.&lt;/p&gt;
+&lt;p&gt;For more information visit:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/Bio7/EclipseImageJ1Plugin&quot; rel=&quot;nofollow&quot;&gt;https://github.com/Bio7/EclipseImageJ1Plugin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://bio7.org&quot; rel=&quot;nofollow&quot;&gt;http://bio7.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ImageJ documentation and websites:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imagej.nih.gov/ij/&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://imagej.net/Welcome&quot; rel=&quot;nofollow&quot;&gt;http://imagej.net/Welcome&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://imagej.nih.gov/ij/docs/guide/146.html&quot; rel=&quot;nofollow&quot;&gt;https://imagej.nih.gov/ij/docs/guide/146.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;New in 1.51p:&lt;/p&gt;
+&lt;p&gt;In this relase a macro editor and ImageJ perspective have been added to the ImageJ plugin. In addition the menu of the ImageJ plugin is now right assigned and the toolbar resizes dynamically.&lt;/p&gt;
+&lt;p&gt;The editor has the following features:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		    Dynamic error detection (grammar derived from the ECMA grammar by Bart Kiers)&lt;/li&gt;
+&lt;li&gt;
+		    Toolbar action to execute ImageJ macros&lt;/li&gt;
+&lt;li&gt;
+		    Syntax highlightening&lt;/li&gt;
+&lt;li&gt;
+		    Debugging support (reusing and implementing interfaces and methods from ImageJ - same keyboard shortcuts - see animation below)&lt;/li&gt;
+&lt;li&gt;
+		    Code completion (with browser help)&lt;/li&gt;
+&lt;li&gt;
+		    Code templates (add you own templates)&lt;/li&gt;
+&lt;li&gt;
+		    Info popups (text hoover)&lt;/li&gt;
+&lt;li&gt;
+		    Outline view (var variables, variables, methods and macros)&lt;/li&gt;
+&lt;li&gt;
+		    Automatic closing of braces, parentheses and strings Automatic indention of functions,loops, etc.&lt;/li&gt;
+&lt;li&gt;
+		    Code folding&lt;/li&gt;
+&lt;li&gt;
+		    Code formatting (based on the Eclipse-javascript-formatter by Sebastian Moran)&lt;/li&gt;
+&lt;li&gt;
+		    Resize fonts functions (with Ctrl++ or CMD++, CTRL+- or CMD +-)&lt;/li&gt;
+&lt;li&gt;
+		    Font preferences&lt;/li&gt;
+&lt;li&gt;
+		    Mark occurences (scope independant)&lt;/li&gt;
+&lt;li&gt;
+		    A copy function for this forum&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;New in 1.51n:&lt;/p&gt;
+&lt;p&gt;* Added a fake editor to register and open standard image files from the Navigator or Project Explorer, etc in the ImageJ view.&lt;/p&gt;
+&lt;p&gt;* Fixed several image conversion bugs&lt;/p&gt;
+&lt;p&gt;* Moved plugin update site to github (if you have an old installation please uninstall the old plugins first before you install from this location!)&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 05 Oct 2016 10:59:26 +0000</pubDate>
+ <dc:creator>mmisingnameaoh</dc:creator>
+ <guid isPermaLink="false">3103502 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/imagej-plugin#comments</comments>
+  </item>
+  </channel>
+</rss>

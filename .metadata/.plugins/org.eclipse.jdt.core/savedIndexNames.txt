@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/home/giorgos/adsProject/.metadata/.plugins/org.eclipse.jdt.core
+1175494123.index
