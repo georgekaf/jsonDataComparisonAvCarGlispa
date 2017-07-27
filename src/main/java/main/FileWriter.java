@@ -24,7 +24,7 @@ public class FileWriter {
      * Set the private fields
      */
     public FileWriter() {
-    	setFilePathName();
+        setFilePathName();
     }
     
     /**
@@ -43,12 +43,12 @@ public class FileWriter {
      * @param str
      * @throws IOException
      */
-	public static void writeFile (File filepath, String str) throws IOException {
-		Writer writer = new BufferedWriter(
-				new OutputStreamWriter(
-						new FileOutputStream(filepath, true), "UTF-8"
-				)
-			);
+    public static void writeFile (File filepath, String str) throws IOException {
+        Writer writer = new BufferedWriter(
+                new OutputStreamWriter(
+                        new FileOutputStream(filepath, true), "UTF-8"
+                )
+            );
         try {
             if (writer != null) {
                 writer.append(str);
@@ -65,7 +65,7 @@ public class FileWriter {
                 ex.printStackTrace();
             }
         } 
-	}
+    }
     
     /**
      * Generate a unique (datetime) filename 
@@ -90,8 +90,8 @@ public class FileWriter {
         String filenameToSave = filename + ".json";
         this.filePath = new File(filenameToSave);
         while(this.filePath.exists()) {
-        	filenameToSave = filename + "-" + (num++) +".json";
-        	this.filePath = new File(filenameToSave); 
+            filenameToSave = filename + "-" + (num++) +".json";
+            this.filePath = new File(filenameToSave); 
         }
         
         this.filePathName = filenameToSave;

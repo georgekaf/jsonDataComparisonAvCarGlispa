@@ -1,4 +1,4 @@
-package main;
+package numericFunctions;
 
 public class PercentOf {
     /**
@@ -8,9 +8,9 @@ public class PercentOf {
      * @return 
      */
     public static Double TwoNumbers(Double number1, Double number2) {
-    	Double increaseDecrease = number1-number2;
-    	Double roundedPercentage =  (double) Math.round(((Math.abs(increaseDecrease)/number2)*100));
-        
+        Double increaseDecrease = number1-number2;
+        Double roundedPercentage =  (double) Math.round(((Math.abs(increaseDecrease)/number2)*100));
+
 //        System.out.println("increaseDecrease:" +increaseDecrease);
 //        System.out.println("roundedPercentage:" +roundedPercentage);
         
@@ -33,7 +33,7 @@ public class PercentOf {
         } else if (increaseDecrease == 0) {
             System.out.println("The two numbers are the same");
         }
-        
+
         return roundedPercentage;
     }
 

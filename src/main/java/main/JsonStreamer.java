@@ -16,7 +16,7 @@ import com.google.gson.stream.MalformedJsonException;
  *
  */
 public class JsonStreamer {
-	
+    
     /**
      * Parse json from a file input stream
      * 
@@ -25,13 +25,13 @@ public class JsonStreamer {
      * @throws IOException
      */
     public JsonReader readJsonStream(InputStream in) throws IOException {
-		try {
-			InputStreamReader streamReader = new InputStreamReader(in, "UTF-8");
-			JsonReader reader = new JsonReader(streamReader);
-			return reader;
-		} catch (Exception e) {
-			//e.printStackTrace();
-			throw e;
-    	}
+        try {
+            InputStreamReader streamReader = new InputStreamReader(in, "UTF-8");
+            JsonReader reader = new JsonReader(streamReader);
+            return reader;
+        } catch (Exception e) {
+            //e.printStackTrace();
+            throw e;
+        }
     }
 }
